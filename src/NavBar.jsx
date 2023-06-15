@@ -35,17 +35,17 @@ export default function NavBar(props) {
                     </Link>
                   </li>
                   <li className="nav-item">
-                    <Link className="nav-link" to="menu.html">
+                    <Link className="nav-link" to="/menu">
                       Menu
                     </Link>
                   </li>
                   <li className="nav-item">
-                    <Link className="nav-link" to="about.html">
+                    <Link className="nav-link" to="/about">
                       About
                     </Link>
                   </li>
                   <li className="nav-item">
-                    <Link className="nav-link" to="book.html">
+                    <Link className="nav-link" to="/book">
                       Book Table
                     </Link>
                   </li>
