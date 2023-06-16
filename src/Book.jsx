@@ -59,7 +59,7 @@ export default function Book(props) {
                 <div id="googleMap">
                   <div className="mapouter">
                     <div className="gmap_canvas">
-                      <iframe
+                      <iframe title="map"
                         width="600"
                         height="500"
                         id="gmap_canvas"
